@@ -2,7 +2,7 @@
 
 ## Usage
 
-`https://raw.githubusercontent.com/tonic-cash/events/main/${chainId}/${contractAddress}.json`
+`https://raw.githubusercontent.com/tonic-cash/tonic-events/main/${chainId}/${contractAddress}.json`
 
 - `fromBlock`: `number`
 - `endBlock`: `number`
